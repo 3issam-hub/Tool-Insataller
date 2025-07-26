@@ -31,5 +31,5 @@ Setting up a red teaming environment can be time-consuming. This script simplifi
 
    ```bash
    git clone https://github.com/3issam-hub/Toolkit-Insataller.git
-   cd redteam-installer
+   cd Toolkit-Insataller
    ```
