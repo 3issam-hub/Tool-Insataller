@@ -33,3 +33,30 @@ Setting up a red teaming environment can be time-consuming. This script simplifi
    git clone https://github.com/3issam-hub/Toolkit-Insataller.git
    cd Toolkit-Insataller
    ```
+
+2. Make the script executable:
+
+   ```bash
+   chmod +x Toolkit-Insataller.sh
+   ```
+
+4. Run the script:
+
+> ⚠️ Note: Run the script with root privileges or use `sudo` where necessary.
+
+## 📦 Requirements
+
+- **Debian-based Linux distribution (Kali, Ubuntu, Parrot OS, etc.)**
+- **Internet connection**
+- **`sudo` privileges**
+
+## 📄 License
+This project is licensed under the **GNU General Public License v3.0** - see [LICENSE](https://www.gnu.org/licenses/gpl-3.0) for details.
+
+---
+
+<p align="center">
+  Made with ♥️ by Issam Beniysa<br>
+  <a href="https://issambeniysa.site">Contact Me</a> | 
+  <a href="https://github.com/3issam-hub/Wp-Explorer/issues">Report Issue</a>
+</p>
